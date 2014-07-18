@@ -1,0 +1,6 @@
+{
+    "baseUrl": "src/",
+    "distUrl": "dist/",
+    "disableAutoSuffix": true,
+    "loader": "lib/oz.min.js"
+}
