@@ -1,6 +1,8 @@
 
 # Ozma Demo
 
+> * [Ozma](https://github.com/dexteryy/ozma.js): Intelligent autobuild tool for [oz.js](http://ozjs.org)
+
 ## Installing and Building
 
 ```
@@ -15,7 +17,21 @@ npm install
 grunt ozma
 ```
 
-## Results
+## Configuration files
+
+* [ozconfig.json](https://github.com/dexteryy/ozma-demo/blob/master/src/ozconfig.json) or [Gruntfile.js](https://github.com/dexteryy/ozma-demo/blob/master/Gruntfile.js)
+
+## Source files
+
+* [main.js (build script)](https://github.com/dexteryy/ozma-demo/blob/master/src/main.js)
+* [mod/a.js](https://github.com/dexteryy/ozma-demo/blob/master/src/mod/a.js)
+* [mod/b.js](https://github.com/dexteryy/ozma-demo/blob/master/src/mod/b.js)
+* [mod/c.js](https://github.com/dexteryy/ozma-demo/blob/master/src/mod/c.js)
+* [mod/d.js](https://github.com/dexteryy/ozma-demo/blob/master/src/mod/d.js)
+* [lazy/a.js](https://github.com/dexteryy/ozma-demo/blob/master/src/lazy/a.js)
+* [lazy/b.js](https://github.com/dexteryy/ozma-demo/blob/master/src/lazy/b.js)
+
+## Compiled files
 
 * dist/main.js
 
